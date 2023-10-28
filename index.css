@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calculator {
+    width: 400px;
+    margin: auto;
+}
+button {
+    width: 20%;
+    height: 40px;
+}
+input {
+    width: 80%;
+    height: 50px;
+}
